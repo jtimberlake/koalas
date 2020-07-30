@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+# comment
 
 global-exclude *.py[cod] __pycache__ .DS_Store
 include README.md
